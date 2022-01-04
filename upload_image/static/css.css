@@ -1,0 +1,32 @@
+
+body, html {
+    height: 100%;
+    background-color: blueviolet;
+  }
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+.image-tags{
+    margin-top: 50px;
+    border: 1px solid black;
+    height: 300px;
+}
+.main-component{
+    width: 50%;
+}
+.upload-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.upload-form{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
